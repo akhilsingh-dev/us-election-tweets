@@ -1,5 +1,7 @@
 # us-election-tweets
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theDrake1010/us-election-tweets/HEAD)
+
 The US Presidential Elections for 2020 just got over and people have a lottt to say! 
 
 In this repo, we look at the tweets made by people regarding the election. The dataset used is:
