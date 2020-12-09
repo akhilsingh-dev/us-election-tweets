@@ -1,4 +1,3 @@
 #!/bin/bash
-for nb in ./notebooks/*.ipynb;
-do jupyter trust $nb;
-done
+
+jupyter trust ./notebooks/eda.ipynb
