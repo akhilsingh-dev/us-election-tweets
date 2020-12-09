@@ -1,3 +1,4 @@
 #!/bin/bash
 
 jupyter trust ./notebooks/eda.ipynb
+jupyter trust ./notebooks/senti.ipynb
