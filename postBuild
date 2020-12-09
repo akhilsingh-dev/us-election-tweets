@@ -1,4 +1,4 @@
 #!/bin/bash
-
-for nb in ./notebook/*.ipynb:
-    jupyter trust nb.ipynb
+for nb in ./notebooks/*.ipynb;
+do jupyter trust $nb;
+done
