@@ -1,7 +1,7 @@
 # us-election-tweets
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theDrake1010/us-election-tweets/main)
-(https://img.shields.io/badge/Made%20by-theDrake1010-orange)
+<a href="https://github.com/theDrake1010"><img src="https://img.shields.io/badge/Made%20by-theDrake1010-orange.svg"/></a>
 
 
 The US Presidential Elections for 2020 just got over and people have a lottt to say! 
