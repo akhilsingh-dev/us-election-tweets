@@ -4,7 +4,7 @@
 <a href="https://github.com/theDrake1010"><img src="https://img.shields.io/badge/Made%20by-theDrake1010-orange.svg"/></a>
 <a href="https://github.com/vaibhavjswl"><img src="https://img.shields.io/badge/Made%20By-Vaibhav%20Jaiswal-red.svg"/></a>
 
-https://img.shields.io/badge/Made%20By-Vaibhav%20Jaiswal-red
+
 The US Presidential Elections for 2020 just got over and people have a lottt to say! 
 
 In this repo, we look at the tweets made by people regarding the election. The dataset used is:
