@@ -3,7 +3,7 @@
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/theDrake1010/us-election-tweets/main)
 <a href="https://github.com/theDrake1010"><img src="https://img.shields.io/badge/Made%20by-theDrake1010-orange.svg"/></a>
 <a href="https://github.com/vaibhavjswl"><img src="https://img.shields.io/badge/Made%20By-Vaibhav%20Jaiswal-red.svg"/></a>
-
+<a href="https://github.com/adith1331"><img src="https://img.shields.io/badge/Made%20By-Adith%20Sanjeeve-blue.svg"/></a>
 
 The US Presidential Elections for 2020 just got over and people have a lottt to say! 
 
