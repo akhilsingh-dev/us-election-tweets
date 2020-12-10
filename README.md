@@ -20,4 +20,9 @@ Tweets were scraped using the snsscrape and Twitter API on #DonaldTrump, #Trump,
 
 The data folder will be empty but should contain just the two CSVs for the notebooks to work.
 
+We performed the following on the dataset:
+    1. Exploratory data analysis
+    2. Sentiment analysis of tweet and Classying each state as Democratic or republic on basis of tweets
+    3. Using K means to Create word cluster and word cloud , optimizing K means using Elbow method
+
 All notebooks are available in the ./notebooks folder.
